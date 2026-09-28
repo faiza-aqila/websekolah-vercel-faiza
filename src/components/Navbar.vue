@@ -4,8 +4,7 @@
     <RouterLink to="/"><b>Landing</b></RouterLink> |
     <RouterLink to="/product"><b>Product</b></RouterLink> |
     <RouterLink to="/about"><b>About</b></RouterLink> |
-    <RouterLink to="/contact"><b>Contact</b></RouterLink> |
-    <RouterLink to="/faiza"><b>Faiza</b></RouterLink>
+    <RouterLink to="/contact"><b>Contact</b></RouterLink> 
   </nav>
   <hr />
 </template>
