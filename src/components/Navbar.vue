@@ -15,5 +15,4 @@
 </script>
  
 <style scoped>
-  /* CSS khusus buat component ini saja, tidak bocor ke component lain */
 </style>

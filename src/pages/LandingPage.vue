@@ -83,10 +83,10 @@
 
 /* Hero Section (Banner Biru) */
 .hero-section {
-  background-color: #0787d1fa; /* Warna latar biru */
+  background: linear-gradient(135deg, #04385a, #02d9f1);
   color: rgb(14, 13, 13);
   text-align: center;
-  padding: 10px 20px;
+  padding: 10px;
   margin:  40px;
   border-radius: 20px; /* biar melengkung */
 }
@@ -133,7 +133,7 @@
   min-width: 250px;
   max-width: 300px;
   padding: 25px 20px;
-  background-color: #0993d3;
+  background: linear-gradient(135deg, #04385a, #02d9f1);
   border-radius: 10px;
   text-align: center;
   box-shadow: 0 4px 12px rgb(0, 0, 0); /* Memberikan efek kartu melayang */
