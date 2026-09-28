@@ -120,7 +120,7 @@ const daftarteam = [
     <!-- Fitur 1 -->
     <div class="feature-card">
       <div class="icon">💀</div>
-      <h3><b>AKBAR</b></h3>
+      <h3><b>RIZAL</b></h3>
       <p><b>MANAGER</b></p>
     </div>
 

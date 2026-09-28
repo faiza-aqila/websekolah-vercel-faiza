@@ -143,4 +143,9 @@ button:hover {
     width: 100%;
   }
 }
-</style>
+</style> 
+
+
+<!-- npm install
+cd websekolah-vercel-faiza
+npm run dev -->

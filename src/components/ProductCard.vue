@@ -14,7 +14,7 @@ function tutupPreview() {
 // fitur suara
 function tambahKeKeranjang(nama) {
   // Logika untuk menambahkan produk ke keranjang
-  const suara = new Audio('nikin-pop-up-something-160353.mp3') // Ganti dengan path suara yang sesuai
+  const suara = new Audio('nikin-pop.mp3') // Ganti dengan path suara yang sesuai
   suara.play()
   alert(`${nama} telah ditambahkan ke keranjang!`)
 }

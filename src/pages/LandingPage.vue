@@ -10,12 +10,12 @@
   <div class="landing-page">
     <!-- Navbar Header -->
     <header class="navbar">
-      <div class="logo">Niecco — Onlineshop</div>
+      <div class="logo">Faizoy — Onlineshop</div>
        </header>
 
     <!-- Hero Section -->
     <section class="hero-section">
-      <h1>Belanja Perlengkapan Sekolah Gaulz.</h1>
+      <h1>Belanja Di Toko Sekolah</h1>
       <p>Dari seragam, sampai tas sekolah — semua ada.</p>
       <button class="btn-primary"><RouterLink to="/product">Lihat Produk</RouterLink></button>
     </section>
@@ -30,7 +30,7 @@
     <!-- Fitur 1 -->
     <div class="feature-card">
       <div class="icon">👍🤙</div>
-      <h3>Kualitas Terjamin Kalcer</h3>
+      <h3>High Quality</h3>
       <p>Bahan dipilih langsung oleh tim sekolah.</p>
     </div>
 
